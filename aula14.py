@@ -1,8 +1,10 @@
 # Usando funcao input para coletar dados do usuario
 
 nome = input("Digite seu nome: ")
+last_name = input("Digite seu sobrenome: ")
 #print(f"O seu nome e {nome}!")
 #print(f"O seu nome e {nome=}!")
+#print(f"Os seu nome e {nome} {last_name}!") # concatenacao de string usando f-string"})
 
 numero_1 = input("Digite um numero: ")
 numero_2 = input("Digite outro numero: ")
